@@ -2,16 +2,19 @@
   {
     "title": "Belajar React JS lengkap",
     "tags": ["react", "frontend"],
-    "date": "2024-11-25"
+    "date": "2024-11-25",
+    "isNew": true
   },
   {
     "title": "Meningakatkan performance di React JS ",
     "tags": ["react", "frontend"],
-    "date": "2024-11-26"
+    "date": "2024-11-26",
+    "isNew": false
   },
   {
     "title": "Cara menggunakan chakra-ui di React JS",
     "tags": ["react", "css"],
-    "date": "2024-11-27"
+    "date": "2024-11-27",
+    "isNew": false
   }
 ]
